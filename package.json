@@ -1,0 +1,19 @@
+{
+  "name": "trabalho",
+  "version": "1.0.0",
+  "description": "projeto final referente ao trabalho de programacao web(pw)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "marcosamuel"
+  },
+  "author": "marcos samuel, ciro igor e lucas lima",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  }
+}
